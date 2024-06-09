@@ -1,0 +1,8 @@
+//tagname
+//tagname[index]/tagname
+//tagname[index]/tagname[index]
+(//xpath)[index]
+//tagname[@attributeName='attributeValue']
+//tagname[text()='textValue']
+//tagname[contains(@attributeName,'attributeValue')]
+//tagname[contains(text(),'textValue')]
